@@ -1,0 +1,10 @@
+requests
+pyaml
+pyopenssl
+litedb
+python-dateutil
+slack_sdk
+boto3
+dataclasses==0.6
+dataclass-wizard==0.22.2
+dataclasses-json==0.5.7

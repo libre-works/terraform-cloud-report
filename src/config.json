@@ -1,0 +1,11 @@
+{
+    "organization": "xxxxxxxxxxxxx",
+    "url":  "https://app.terraform.io",
+    "age": 90,
+    "channel": "xxxxxxxxxxx",
+    "comment": "This months Terraform Apply report",
+    "db_table": "xxxxxxxxxxxxx",
+    "db_file": "./LiteDB",
+    "db_key": "xxxxxxxxxxxx",
+    "wait_time": 1.25
+}
